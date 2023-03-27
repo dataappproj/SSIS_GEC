@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="FO365"
+  DTS:DTSID="{2A4C741D-554A-4749-B646-B4ED4DFE15D4}"
+  DTS:CreationName="ODATA"
+  p1:Salt="kS4j7aKCtT8="
+  p1:IV="r7jd8jh1hrEC5Shckg/9Nw=="
+  p1:Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" xmlns:p1="www.microsoft.com/SqlServer/SSIS">HQlJ33DxKd3wCpH+yiFGynFE8v6tJ2FxyJThwzJXSdbIK4gc6qCAsQ8U39sM7wMJUS2NvR3d2/6C+f5mziXqIbKFdcG3lBEg50b9OkoKXsMV54o0haE11pfLhW+/3iceeG/B1f8uLg9r58NP1e6jVCZi/Bk3VOYMDPmZE/1x5+2G5IfYxlTbxN3YbYGa6JWDfUyrSu9wunFGr8zRIsidhlDUcSWzGwGRO7S62baKkxFMi/vbr00at888DEyzwtrVknkSbUAGaf0mMt7uJQXlggoiL0UZrBS7c7uBnrBcVfN8PhEB0kEqpjhhYX2uwSU+e5/zTQ31CmkEO7bTE+sc04E4gmvMGqoywRAQLi12oakZ6MMIJ0kdT3q4JW66ML7oR6hD9HO/fxlnSCvVwZuPeZa1hALz/8cnGmUN8IPFmHr72r066NjAgGiq7nBKZ03Z4gQcuziQntZ/XkyGJ5Io6Hxzf3wiaC0wf02+wXHJPzbS82dg3zLuFzYIhVQmPoTd2BqxwkA245P+ncCRIDI+Cz1sHdyb32+/Xf7Y+gYm18WOMTT5LruOQ8Go5G/x5xJNHM99oZ0RHhRhOwRrABmnLVc1VZ1regQrLLC0s31s6if0HaRN4XmbvmOU2t/tOExB3t0KmeBCpk5cgw36bWoFWdGswNvgKaVcSlgT7DI2VNzGg1fwv0aTsz1/ie3MfpjqDHg1rA155Gpa4B7850pfFL1MWsjTifsFrgSP/CYNCL0qWDu/mUuHLu7HwfiI/6HxftAQH6VYWhvYyd9hFz2CXGGgKdVy5Rgetop0FPvQsw3+AGSezcZdofEftGAv7FlWiqvH30C8JsKi1yha4JUYt7Umq8s/lkTAeC3oZqoHDCbDxHkyCpsMHqROAgSqEjkloeT7ULf21x+tg7DWiwqnyPl8PN+q4yihrG5bAqryWFMI+5A/nseiM/PPRkk8AHGPOUrkZgOR8BeV34zC2Wbvuc5iknFSmpli/pw8arXmn8cRRjk/jT3M1vyZS6fpKMBzkdSLdCR65Ktj26oGTzp/R78wliqEttU6yTYNA3qxXlxNacKcsss7tSnsVxRjIbK/69nxyASqrZgu1ptQ6mLz1LIb3BFVn5jLDNeVQrhQeeWkoNRttxkeCqSxDx4Z6koC7zfW+FnsagOU/Fq6lOHpufLjm2617axhSd2vaImS6GM=</DTS:ConnectionManager>

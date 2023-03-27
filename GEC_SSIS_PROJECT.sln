@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "GEC_SSIS_PROJECT", "GEC_SSIS_PROJECT\GEC_SSIS_PROJECT.dtproj", "{7C6EA4F0-CD06-4349-888A-771A88480C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6EA4F0-CD06-4349-888A-771A88480C51}.Azure|Default.ActiveCfg = Azure
+		{7C6EA4F0-CD06-4349-888A-771A88480C51}.Azure|Default.Build.0 = Azure
+		{7C6EA4F0-CD06-4349-888A-771A88480C51}.Development|Default.ActiveCfg = Development
+		{7C6EA4F0-CD06-4349-888A-771A88480C51}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {157F120D-A6B0-4F26-840A-85D497414721}
+	EndGlobalSection
+EndGlobal
